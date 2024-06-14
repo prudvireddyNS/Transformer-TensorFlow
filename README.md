@@ -1,12 +1,8 @@
 # Transformer Architecture in TensorFlow
 
-This repository contains an implementation of the Transformer architecture in TensorFlow, along with detailed notebooks demonstrating each component.
+This repository contains an implementation of the Transformer architecture in TensorFlow from the paper ["Attention is all you need"](https://papers.neurips.cc/paper/7181-attention-is-all-you-need.pdf).
 
-## Structure
 
-- `src/`: Source code for each component
-- `notebooks/`: Jupyter notebooks for demonstrating each component
-- `requirements.txt`: Required packages
 
 ## Installation
 
